@@ -1,0 +1,24 @@
+===25/05/2022 8:01:12 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===25/05/2022 8:01:12 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/05/2022 8:01:12 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/05/2022 8:01:23 AM:Đọc kết quả từ VSTech.
+===25/05/2022 8:26:36 AM:GetData: Xem nhật ký lượt cân từ ngày 25-05-2022 - 25-05-2022
+===25/05/2022 8:26:43 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===25/05/2022 8:26:43 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/05/2022 8:26:43 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/05/2022 8:26:54 AM:Đọc kết quả từ VSTech.
+===25/05/2022 8:28:59 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===25/05/2022 8:28:59 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/05/2022 8:28:59 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/05/2022 8:29:10 AM:Đọc kết quả từ VSTech.
+===25/05/2022 8:29:14 AM:Lưu kết quả xuống Database.
+===25/05/2022 8:29:15 AM:Đọc kết quả từ VSTech.
+===25/05/2022 8:29:18 AM:Lưu kết quả xuống Database.
+===25/05/2022 8:29:56 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===25/05/2022 8:30:07 AM:GetData: Xem nhật ký lượt cân từ ngày 25-05-2022 - 25-05-2022
+===25/05/2022 8:45:23 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===25/05/2022 8:45:23 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/05/2022 8:45:23 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/05/2022 8:45:34 AM:Đọc kết quả từ VSTech.
+===25/05/2022 8:45:38 AM:Lưu kết quả xuống Database.
+===25/05/2022 8:45:44 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.

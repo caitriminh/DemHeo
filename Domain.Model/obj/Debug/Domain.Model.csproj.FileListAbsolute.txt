@@ -1,0 +1,6 @@
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\bin\Debug\Domain.Model.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\bin\Debug\Domain.Model.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\obj\Debug\Domain.Model.csproj.AssemblyReference.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\obj\Debug\Domain.Model.csproj.CoreCompileInputs.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\obj\Debug\Domain.Model.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Domain.Model\obj\Debug\Domain.Model.pdb

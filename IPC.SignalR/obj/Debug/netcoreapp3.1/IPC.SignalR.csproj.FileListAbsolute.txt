@@ -1,0 +1,50 @@
+D:\Project\ipc247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.deps.json
+D:\Project\ipc247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\ipc247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\ipc247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.deps.json
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\IPC247_QuyetThang\IPC247\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.deps.json
+D:\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.deps.json
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.deps.json
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\bin\Debug\netcoreapp3.1\IPC.SignalR.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Debug\netcoreapp3.1\IPC.SignalR.pdb

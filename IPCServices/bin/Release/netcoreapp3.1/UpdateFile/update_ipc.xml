@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.1.8</version>
+    <url>http://127.0.0.1:5001/UpdateFile/UpdateIpc247.zip</url>
+    <changelog>http://127.0.0.1:5001/UpdateFile</changelog>
+    <mandatory>false</mandatory>
+</item>

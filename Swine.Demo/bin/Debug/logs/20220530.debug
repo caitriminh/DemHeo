@@ -1,0 +1,122 @@
+===30/05/2022 2:35:32 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:35:43 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:38:52 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:39:05 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:39:30 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:39:37 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:40:40 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:40:54 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:42:49 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:42:59 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:46:45 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:46:58 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:52:07 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:52:14 PM:GetData: Xem nhật ký lượt cân từ ngày 01-05-2022 - 30-05-2022
+===30/05/2022 2:53:00 PM:GetData: Xem nhật ký lượt cân từ ngày 01-05-2022 - 30-05-2022
+===30/05/2022 2:54:35 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 2:54:40 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 2:55:02 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 29-05-2022
+===30/05/2022 3:08:15 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 3:08:20 PM:GetData: Xem nhật ký lượt cân từ ngày 30-05-2022 - 30-05-2022
+===30/05/2022 3:08:26 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 30-05-2022
+===30/05/2022 3:09:05 PM:GetData: Xem thống kê lượt cân từ ngày 29-05-2022 - 30-05-2022
+===30/05/2022 3:09:06 PM:GetData: Xem nhật ký lượt cân từ ngày 29-05-2022 - 30-05-2022
+===30/05/2022 8:04:21 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:04:21 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:04:21 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:04:31 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:04:32 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:07:04 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:07:04 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:07:04 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:07:14 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:07:15 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:08:34 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:08:34 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:08:34 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:08:44 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:08:45 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:08:46 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:08:46 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:08:46 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:10:32 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:10:32 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:10:32 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:10:42 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:10:43 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:10:44 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:10:44 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:10:44 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:11:26 PM:Upload ảnh lên server thành công
+===30/05/2022 8:11:26 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:11:26 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:11:27 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:11:27 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:11:27 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:11:30 PM:Upload ảnh lên server thành công
+===30/05/2022 8:11:30 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:11:59 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:11:59 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:11:59 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:12:09 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:12:10 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:12:12 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:12:12 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:12:12 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:12:15 PM:Upload ảnh lên server thành công
+===30/05/2022 8:12:15 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:12:15 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:12:16 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:12:16 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:12:16 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:12:19 PM:Upload ảnh lên server thành công
+===30/05/2022 8:12:19 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:15:46 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:15:46 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:15:46 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:15:56 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:15:57 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:15:58 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:15:58 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:15:58 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:16:01 PM:Upload ảnh lên server thành công
+===30/05/2022 8:16:01 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:16:01 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:16:02 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:16:02 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:16:02 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:16:05 PM:Upload ảnh lên server thành công
+===30/05/2022 8:16:05 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:23:29 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:23:29 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:23:29 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:23:39 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:23:40 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:23:41 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:23:41 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:23:41 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:24:19 PM:Upload ảnh lên server thành công
+===30/05/2022 8:24:19 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:24:19 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:24:20 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:24:20 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:24:20 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:24:26 PM:Upload ảnh lên server thành công
+===30/05/2022 8:24:26 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:25:28 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:25:57 PM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===30/05/2022 8:25:57 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===30/05/2022 8:25:57 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===30/05/2022 8:26:07 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===30/05/2022 8:26:08 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:26:09 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:26:09 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:26:09 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:26:12 PM:Upload ảnh lên server thành công
+===30/05/2022 8:26:12 PM:Lưu kết quả xuống Database.
+===30/05/2022 8:26:13 PM:Đọc kết quả từ VSTech.
+===30/05/2022 8:26:14 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===30/05/2022 8:26:14 PM:Lưu ảnh hoàn tất
+===30/05/2022 8:26:14 PM:Bắt đầu upload ảnh lên server
+===30/05/2022 8:26:17 PM:Upload ảnh lên server thành công
+===30/05/2022 8:26:17 PM:Lưu kết quả xuống Database.

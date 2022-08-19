@@ -1,0 +1,518 @@
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Swine.Demo.exe.config
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Swine.Demo.exe
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Swine.Demo.pdb
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.csproj.AssemblyReference.cache
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.Properties.Resources.resources
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.csproj.GenerateResource.cache
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.csproj.CoreCompileInputs.cache
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.csproj.CopyComplete
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.exe
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.pdb
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.exe.licenses
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.AccessControl.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.Permissions.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.AccessControl.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.Permissions.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Buffers.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Memory.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Text.Json.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Threading.Channels.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.ValueTuple.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Buffers.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Memory.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Text.Json.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Threading.Channels.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\System.ValueTuple.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.pdb
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Aspose.Cells.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Aspose.Cells.xml
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\FastMember.dll
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Swine.Demo.exe.manifest
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\bin\Debug\Swine.Demo.application
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.exe.manifest
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.application
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.FrmConfig.resources
+C:\Users\caitr\source\repos\Swine.Demo\Swine.Demo\obj\Debug\Swine.Demo.FrmMain.resources
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.AssemblyReference.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.FrmConfig.resources
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.FrmMain.resources
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.Properties.Resources.resources
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.GenerateResource.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe.licenses
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.CoreCompileInputs.cache
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe.config
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe.manifest
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.application
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Aspose.Cells.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\FastMember.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Buffers.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.IO.Pipelines.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Memory.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Numerics.Vectors.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.AccessControl.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Permissions.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Principal.Windows.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Json.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Channels.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.ValueTuple.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Aspose.Cells.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Buffers.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.IO.Pipelines.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Memory.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Numerics.Vectors.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.AccessControl.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Permissions.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Principal.Windows.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Json.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Channels.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.ValueTuple.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe.manifest
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.application
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.CopyComplete
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.pdb
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Domain.Model.dll
+D:\Quyet Thang\Dự án lồng heo C.P\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Domain.Model.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe.config
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe.manifest
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.application
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.exe
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Swine.Demo.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Aspose.Cells.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Domain.Model.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\FastMember.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Newtonsoft.Json.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Buffers.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.IO.Pipelines.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Memory.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Numerics.Vectors.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.AccessControl.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Permissions.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Principal.Windows.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Encodings.Web.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Json.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Channels.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.ValueTuple.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Domain.Model.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Aspose.Cells.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Features.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\Newtonsoft.Json.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Buffers.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.IO.Pipelines.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Memory.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Numerics.Vectors.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.AccessControl.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Permissions.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Security.Principal.Windows.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Encodings.Web.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Text.Json.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Channels.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\System.ValueTuple.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.AssemblyReference.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.SuggestedBindingRedirects.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.FrmConfig.resources
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.FrmMain.resources
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.Properties.Resources.resources
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.GenerateResource.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe.licenses
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.CoreCompileInputs.cache
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe.manifest
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.application
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.csproj.CopyComplete
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.exe
+D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\Swine.Demo\obj\Debug\Swine.Demo.pdb

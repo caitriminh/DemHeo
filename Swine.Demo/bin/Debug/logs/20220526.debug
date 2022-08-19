@@ -1,0 +1,43 @@
+===26/05/2022 8:22:47 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===26/05/2022 8:22:47 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===26/05/2022 8:22:47 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===26/05/2022 8:22:57 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===26/05/2022 8:22:58 AM:Đọc kết quả từ VSTech.
+===26/05/2022 8:22:59 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===26/05/2022 8:22:59 AM:Lưu ảnh hoàn tất
+===26/05/2022 8:22:59 AM:Bắt đầu upload ảnh lên server
+===26/05/2022 8:23:02 AM:Upload ảnh lên server thành công
+===26/05/2022 8:23:02 AM:Lưu kết quả xuống Database.
+===26/05/2022 8:24:25 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===26/05/2022 8:24:25 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===26/05/2022 8:24:25 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===26/05/2022 8:24:35 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===26/05/2022 8:24:36 AM:Đọc kết quả từ VSTech.
+===26/05/2022 8:24:37 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===26/05/2022 8:24:37 AM:Lưu ảnh hoàn tất
+===26/05/2022 8:24:37 AM:Bắt đầu upload ảnh lên server
+===26/05/2022 8:24:37 AM:Upload ảnh lên server thành công
+===26/05/2022 8:24:37 AM:Lưu kết quả xuống Database.
+===26/05/2022 8:24:38 AM:Đọc kết quả từ VSTech.
+===26/05/2022 8:24:39 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===26/05/2022 8:24:39 AM:Lưu ảnh hoàn tất
+===26/05/2022 8:24:39 AM:Bắt đầu upload ảnh lên server
+===26/05/2022 8:24:39 AM:Upload ảnh lên server thành công
+===26/05/2022 8:24:39 AM:Lưu kết quả xuống Database.
+===26/05/2022 8:32:53 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=04
+===26/05/2022 8:32:53 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===26/05/2022 8:32:53 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===26/05/2022 8:33:03 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===26/05/2022 8:33:04 AM:Đọc kết quả từ VSTech.
+===26/05/2022 8:33:05 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===26/05/2022 8:33:05 AM:Lưu ảnh hoàn tất
+===26/05/2022 8:33:05 AM:Bắt đầu upload ảnh lên server
+===26/05/2022 8:33:05 AM:Upload ảnh lên server thành công
+===26/05/2022 8:33:05 AM:Lưu kết quả xuống Database.
+===26/05/2022 8:33:05 AM:Đọc kết quả từ VSTech.
+===26/05/2022 8:33:06 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===26/05/2022 8:33:06 AM:Lưu ảnh hoàn tất
+===26/05/2022 8:33:06 AM:Bắt đầu upload ảnh lên server
+===26/05/2022 8:33:06 AM:Upload ảnh lên server thành công
+===26/05/2022 8:33:06 AM:Lưu kết quả xuống Database.
+===26/05/2022 8:33:13 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.

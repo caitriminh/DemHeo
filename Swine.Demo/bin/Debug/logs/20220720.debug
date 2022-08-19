@@ -1,0 +1,41 @@
+===20/07/2022 10:12:43 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:12:43 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:12:43 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:15:36 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:15:36 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:15:36 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:16:38 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:16:38 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:16:38 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:20:35 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:20:35 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:20:35 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:23:21 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:23:24 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:23:28 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:28:57 AM:http://173.249.49.177:5002/api/SignalR/GetNumber?CageId=04
+===20/07/2022 10:29:04 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===20/07/2022 10:29:06 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===20/07/2022 10:29:21 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===20/07/2022 10:29:22 AM:Đọc kết quả từ VSTech.
+===20/07/2022 10:29:24 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===20/07/2022 10:29:24 AM:Lưu ảnh hoàn tất
+===20/07/2022 10:29:24 AM:Bắt đầu upload ảnh lên server
+===20/07/2022 10:29:28 AM:Upload ảnh lên server thành công
+===20/07/2022 10:29:28 AM:Lưu kết quả xuống Database.
+===20/07/2022 10:29:28 AM:Đọc kết quả từ VSTech.
+===20/07/2022 10:29:29 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===20/07/2022 10:29:29 AM:Lưu ảnh hoàn tất
+===20/07/2022 10:29:29 AM:Bắt đầu upload ảnh lên server
+===20/07/2022 10:29:34 AM:Upload ảnh lên server thành công
+===20/07/2022 10:29:34 AM:Lưu kết quả xuống Database.
+===20/07/2022 10:29:34 AM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 04
+===20/07/2022 10:29:35 AM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 04
+===20/07/2022 10:29:35 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===20/07/2022 10:29:35 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===20/07/2022 10:29:40 AM:GetData: Xem nhật ký lượt cân từ ngày 20-07-2022 - 20-07-2022
+===20/07/2022 10:40:49 AM:GetData: Xem nhật ký lượt cân từ ngày 20-07-2022 - 20-07-2022
+===20/07/2022 10:40:51 AM:GetData: Xem thống kê lượt cân từ ngày 20-07-2022 - 20-07-2022
+===20/07/2022 10:40:52 AM:GetData: Xem nhật ký lượt cân từ ngày 20-07-2022 - 20-07-2022
+===20/07/2022 10:42:46 AM:GetData: Xem thống kê lượt cân từ ngày 20-07-2022 - 20-07-2022
+===20/07/2022 10:43:34 AM:GetData: Xem nhật ký lượt cân từ ngày 20-07-2022 - 20-07-2022
