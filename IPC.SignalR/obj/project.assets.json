@@ -1894,11 +1894,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\IPC.SignalR.csproj",
+      "projectUniqueName": "D:\\Project\\DemHeo\\IPC.SignalR\\IPC.SignalR.csproj",
       "projectName": "IPC.SignalR",
-      "projectPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\IPC.SignalR.csproj",
+      "projectPath": "D:\\Project\\DemHeo\\IPC.SignalR\\IPC.SignalR.csproj",
       "packagesPath": "C:\\Users\\caitr\\.nuget\\packages\\",
-      "outputPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\obj\\",
+      "outputPath": "D:\\Project\\DemHeo\\IPC.SignalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
@@ -1960,7 +1960,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

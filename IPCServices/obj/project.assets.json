@@ -6772,11 +6772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPCServices\\API.csproj",
+      "projectUniqueName": "D:\\Project\\DemHeo\\IPCServices\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPCServices\\API.csproj",
+      "projectPath": "D:\\Project\\DemHeo\\IPCServices\\API.csproj",
       "packagesPath": "C:\\Users\\caitr\\.nuget\\packages\\",
-      "outputPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPCServices\\obj\\",
+      "outputPath": "D:\\Project\\DemHeo\\IPCServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
@@ -6806,11 +6806,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\Domain.Model\\Domain.Model.csproj": {
-              "projectPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\Domain.Model\\Domain.Model.csproj"
+            "D:\\Project\\DemHeo\\Domain.Model\\Domain.Model.csproj": {
+              "projectPath": "D:\\Project\\DemHeo\\Domain.Model\\Domain.Model.csproj"
             },
-            "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\IPC.SignalR.csproj": {
-              "projectPath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\IPC.SignalR.csproj"
+            "D:\\Project\\DemHeo\\IPC.SignalR\\IPC.SignalR.csproj": {
+              "projectPath": "D:\\Project\\DemHeo\\IPC.SignalR\\IPC.SignalR.csproj"
             }
           }
         }
@@ -6898,7 +6898,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,7 +1,6 @@
 ﻿using DevExpress.XtraEditors;
 using FastMember;
 using Microsoft.AspNetCore.SignalR.Client;
-using Newtonsoft.Json;
 using Swine.Demo.API;
 using Swine.Demo.Extention;
 using Swine.Demo.Lib;
@@ -757,7 +756,7 @@ namespace Swine.Demo
                 //Nén ảnh VSTech lưu trữ và upload lên server
                 var img = CreateThumbnailImageByOriginImage(path_image_of_vstech);
                 Encoder myEncoder = Encoder.Quality;
-                ImageCodecInfo jpgEncoder = GetEncoder(ImageFormat.Jpeg);
+                ImageCodecInfo jpgEncoder = GetEncoder(ImageFormat.Png);
 
                 EncoderParameter myEncoderParameter = new EncoderParameter(myEncoder, 80L);
                 EncoderParameters myEncoderParameters = new EncoderParameters(1);

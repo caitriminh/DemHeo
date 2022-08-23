@@ -32,10 +32,10 @@ namespace Swine.Demo
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule3 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue3 = new DevExpress.XtraEditors.FormatConditionRuleValue();
-            DevExpress.XtraGrid.GridFormatRule gridFormatRule4 = new DevExpress.XtraGrid.GridFormatRule();
-            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue4 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule1 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue1 = new DevExpress.XtraEditors.FormatConditionRuleValue();
+            DevExpress.XtraGrid.GridFormatRule gridFormatRule2 = new DevExpress.XtraGrid.GridFormatRule();
+            DevExpress.XtraEditors.FormatConditionRuleValue formatConditionRuleValue2 = new DevExpress.XtraEditors.FormatConditionRuleValue();
             this.colWrongNumber = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colStatus = new DevExpress.XtraGrid.Columns.GridColumn();
             this.btnResetDO = new DevExpress.XtraEditors.SimpleButton();
@@ -291,7 +291,7 @@ namespace Swine.Demo
             this.tabDieuKhien.Controls.Add(this.lblStatus);
             this.tabDieuKhien.Margin = new System.Windows.Forms.Padding(4);
             this.tabDieuKhien.Name = "tabDieuKhien";
-            this.tabDieuKhien.Size = new System.Drawing.Size(1386, 701);
+            this.tabDieuKhien.Size = new System.Drawing.Size(1386, 702);
             this.tabDieuKhien.Text = "Bảng Điều Khiển";
             // 
             // splitContainerControl2
@@ -319,7 +319,7 @@ namespace Swine.Demo
             // splitContainerControl2.Panel2
             // 
             this.splitContainerControl2.Panel2.Text = "Panel2";
-            this.splitContainerControl2.Size = new System.Drawing.Size(1386, 655);
+            this.splitContainerControl2.Size = new System.Drawing.Size(1386, 656);
             this.splitContainerControl2.SplitterPosition = 829;
             this.splitContainerControl2.TabIndex = 16;
             // 
@@ -680,7 +680,7 @@ namespace Swine.Demo
             this.chkDO4.Location = new System.Drawing.Point(314, 34);
             this.chkDO4.Margin = new System.Windows.Forms.Padding(4);
             this.chkDO4.Name = "chkDO4";
-            this.chkDO4.Size = new System.Drawing.Size(62, 21);
+            this.chkDO4.Size = new System.Drawing.Size(57, 20);
             this.chkDO4.TabIndex = 12;
             this.chkDO4.Text = "DO 4";
             this.chkDO4.UseVisualStyleBackColor = true;
@@ -692,7 +692,7 @@ namespace Swine.Demo
             this.chkDO3.Location = new System.Drawing.Point(217, 34);
             this.chkDO3.Margin = new System.Windows.Forms.Padding(4);
             this.chkDO3.Name = "chkDO3";
-            this.chkDO3.Size = new System.Drawing.Size(62, 21);
+            this.chkDO3.Size = new System.Drawing.Size(57, 20);
             this.chkDO3.TabIndex = 11;
             this.chkDO3.Text = "DO 3";
             this.chkDO3.UseVisualStyleBackColor = true;
@@ -704,7 +704,7 @@ namespace Swine.Demo
             this.chkDO2.Location = new System.Drawing.Point(120, 34);
             this.chkDO2.Margin = new System.Windows.Forms.Padding(4);
             this.chkDO2.Name = "chkDO2";
-            this.chkDO2.Size = new System.Drawing.Size(62, 21);
+            this.chkDO2.Size = new System.Drawing.Size(57, 20);
             this.chkDO2.TabIndex = 10;
             this.chkDO2.Text = "DO 2";
             this.chkDO2.UseVisualStyleBackColor = true;
@@ -716,7 +716,7 @@ namespace Swine.Demo
             this.chkDO1.Location = new System.Drawing.Point(23, 34);
             this.chkDO1.Margin = new System.Windows.Forms.Padding(4);
             this.chkDO1.Name = "chkDO1";
-            this.chkDO1.Size = new System.Drawing.Size(62, 21);
+            this.chkDO1.Size = new System.Drawing.Size(57, 20);
             this.chkDO1.TabIndex = 9;
             this.chkDO1.Text = "DO 1";
             this.chkDO1.UseVisualStyleBackColor = true;
@@ -733,7 +733,7 @@ namespace Swine.Demo
             this.lblStatus.AutoSizeMode = DevExpress.XtraEditors.LabelAutoSizeMode.None;
             this.lblStatus.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.Simple;
             this.lblStatus.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.lblStatus.Location = new System.Drawing.Point(0, 655);
+            this.lblStatus.Location = new System.Drawing.Point(0, 656);
             this.lblStatus.Margin = new System.Windows.Forms.Padding(4);
             this.lblStatus.Name = "lblStatus";
             this.lblStatus.Size = new System.Drawing.Size(1386, 46);
@@ -745,7 +745,7 @@ namespace Swine.Demo
             this.tabChiTietLuotCan.Controls.Add(this.splitContainerControl1);
             this.tabChiTietLuotCan.Margin = new System.Windows.Forms.Padding(4);
             this.tabChiTietLuotCan.Name = "tabChiTietLuotCan";
-            this.tabChiTietLuotCan.Size = new System.Drawing.Size(1312, 701);
+            this.tabChiTietLuotCan.Size = new System.Drawing.Size(1386, 702);
             this.tabChiTietLuotCan.Text = "Chi Tiết Lượt Cân";
             // 
             // splitContainerControl1
@@ -767,7 +767,7 @@ namespace Swine.Demo
             this.splitContainerControl1.Panel2.Controls.Add(this.txtTemp);
             this.splitContainerControl1.Panel2.Controls.Add(this.grcLuotCan);
             this.splitContainerControl1.Panel2.Text = "Panel2";
-            this.splitContainerControl1.Size = new System.Drawing.Size(1312, 701);
+            this.splitContainerControl1.Size = new System.Drawing.Size(1386, 702);
             this.splitContainerControl1.SplitterPosition = 498;
             this.splitContainerControl1.TabIndex = 0;
             // 
@@ -782,7 +782,7 @@ namespace Swine.Demo
             this.layoutControl1.Margin = new System.Windows.Forms.Padding(4);
             this.layoutControl1.Name = "layoutControl1";
             this.layoutControl1.Root = this.Root;
-            this.layoutControl1.Size = new System.Drawing.Size(498, 317);
+            this.layoutControl1.Size = new System.Drawing.Size(498, 318);
             this.layoutControl1.TabIndex = 1;
             this.layoutControl1.Text = "layoutControl1";
             // 
@@ -793,7 +793,7 @@ namespace Swine.Demo
             0,
             0,
             0});
-            this.txtNumberLine.Location = new System.Drawing.Point(120, 94);
+            this.txtNumberLine.Location = new System.Drawing.Point(111, 94);
             this.txtNumberLine.Margin = new System.Windows.Forms.Padding(4);
             this.txtNumberLine.MenuManager = this.barManager1;
             this.txtNumberLine.Name = "txtNumberLine";
@@ -801,29 +801,29 @@ namespace Swine.Demo
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.txtNumberLine.Properties.EditValueChangedFiringMode = DevExpress.XtraEditors.Controls.EditValueChangedFiringMode.Default;
             this.txtNumberLine.Properties.ReadOnly = true;
-            this.txtNumberLine.Size = new System.Drawing.Size(364, 24);
+            this.txtNumberLine.Size = new System.Drawing.Size(373, 24);
             this.txtNumberLine.StyleController = this.layoutControl1;
             this.txtNumberLine.TabIndex = 7;
             // 
             // txtDate
             // 
-            this.txtDate.Location = new System.Drawing.Point(120, 122);
+            this.txtDate.Location = new System.Drawing.Point(111, 122);
             this.txtDate.Margin = new System.Windows.Forms.Padding(4);
             this.txtDate.MenuManager = this.barManager1;
             this.txtDate.Name = "txtDate";
             this.txtDate.Properties.ReadOnly = true;
-            this.txtDate.Size = new System.Drawing.Size(364, 22);
+            this.txtDate.Size = new System.Drawing.Size(373, 22);
             this.txtDate.StyleController = this.layoutControl1;
             this.txtDate.TabIndex = 6;
             // 
             // txtCageId
             // 
-            this.txtCageId.Location = new System.Drawing.Point(120, 40);
+            this.txtCageId.Location = new System.Drawing.Point(111, 40);
             this.txtCageId.Margin = new System.Windows.Forms.Padding(4);
             this.txtCageId.MenuManager = this.barManager1;
             this.txtCageId.Name = "txtCageId";
             this.txtCageId.Properties.ReadOnly = true;
-            this.txtCageId.Size = new System.Drawing.Size(364, 22);
+            this.txtCageId.Size = new System.Drawing.Size(373, 22);
             this.txtCageId.StyleController = this.layoutControl1;
             this.txtCageId.TabIndex = 4;
             // 
@@ -834,7 +834,7 @@ namespace Swine.Demo
             0,
             0,
             0});
-            this.txtNumber.Location = new System.Drawing.Point(120, 66);
+            this.txtNumber.Location = new System.Drawing.Point(111, 66);
             this.txtNumber.Margin = new System.Windows.Forms.Padding(4);
             this.txtNumber.MenuManager = this.barManager1;
             this.txtNumber.Name = "txtNumber";
@@ -843,7 +843,7 @@ namespace Swine.Demo
             this.txtNumber.Properties.EditValueChangedFiringMode = DevExpress.XtraEditors.Controls.EditValueChangedFiringMode.Default;
             this.txtNumber.Properties.Mask.MaskType = DevExpress.XtraEditors.Mask.MaskType.None;
             this.txtNumber.Properties.ReadOnly = true;
-            this.txtNumber.Size = new System.Drawing.Size(364, 24);
+            this.txtNumber.Size = new System.Drawing.Size(373, 24);
             this.txtNumber.StyleController = this.layoutControl1;
             this.txtNumber.TabIndex = 5;
             // 
@@ -856,7 +856,7 @@ namespace Swine.Demo
             this.layoutControlGroup1});
             this.Root.Name = "Root";
             this.Root.Padding = new DevExpress.XtraLayout.Utils.Padding(0, 0, 0, 0);
-            this.Root.Size = new System.Drawing.Size(498, 317);
+            this.Root.Size = new System.Drawing.Size(498, 318);
             this.Root.TextVisible = false;
             // 
             // emptySpaceItem1
@@ -864,7 +864,7 @@ namespace Swine.Demo
             this.emptySpaceItem1.AllowHotTrack = false;
             this.emptySpaceItem1.Location = new System.Drawing.Point(0, 158);
             this.emptySpaceItem1.Name = "emptySpaceItem1";
-            this.emptySpaceItem1.Size = new System.Drawing.Size(498, 159);
+            this.emptySpaceItem1.Size = new System.Drawing.Size(498, 160);
             this.emptySpaceItem1.TextSize = new System.Drawing.Size(0, 0);
             // 
             // layoutControlGroup1
@@ -886,7 +886,7 @@ namespace Swine.Demo
             this.layoutControlItem1.Name = "layoutControlItem1";
             this.layoutControlItem1.Size = new System.Drawing.Size(474, 26);
             this.layoutControlItem1.Text = "Mã lồng cân";
-            this.layoutControlItem1.TextSize = new System.Drawing.Size(94, 17);
+            this.layoutControlItem1.TextSize = new System.Drawing.Size(85, 16);
             // 
             // layoutControlItem2
             // 
@@ -895,7 +895,7 @@ namespace Swine.Demo
             this.layoutControlItem2.Name = "layoutControlItem2";
             this.layoutControlItem2.Size = new System.Drawing.Size(474, 28);
             this.layoutControlItem2.Text = "Số lượng";
-            this.layoutControlItem2.TextSize = new System.Drawing.Size(94, 17);
+            this.layoutControlItem2.TextSize = new System.Drawing.Size(85, 16);
             // 
             // layoutControlItem3
             // 
@@ -904,7 +904,7 @@ namespace Swine.Demo
             this.layoutControlItem3.Name = "layoutControlItem3";
             this.layoutControlItem3.Size = new System.Drawing.Size(474, 26);
             this.layoutControlItem3.Text = "Ngày thực hiện";
-            this.layoutControlItem3.TextSize = new System.Drawing.Size(94, 17);
+            this.layoutControlItem3.TextSize = new System.Drawing.Size(85, 16);
             // 
             // layoutControlItem4
             // 
@@ -913,7 +913,7 @@ namespace Swine.Demo
             this.layoutControlItem4.Name = "layoutControlItem4";
             this.layoutControlItem4.Size = new System.Drawing.Size(474, 28);
             this.layoutControlItem4.Text = "Số lượng line";
-            this.layoutControlItem4.TextSize = new System.Drawing.Size(94, 17);
+            this.layoutControlItem4.TextSize = new System.Drawing.Size(85, 16);
             // 
             // pictureEdit2
             // 
@@ -947,7 +947,7 @@ namespace Swine.Demo
             this.grcLuotCan.Name = "grcLuotCan";
             this.grcLuotCan.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemDateEdit3});
-            this.grcLuotCan.Size = new System.Drawing.Size(802, 701);
+            this.grcLuotCan.Size = new System.Drawing.Size(876, 702);
             this.grcLuotCan.TabIndex = 2;
             this.grcLuotCan.UseEmbeddedNavigator = true;
             this.grcLuotCan.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -966,24 +966,24 @@ namespace Swine.Demo
             this.gridColumn4,
             this.gridColumn13});
             this.grvLuotCan.DetailHeight = 431;
-            gridFormatRule3.ApplyToRow = true;
-            gridFormatRule3.Column = this.colWrongNumber;
-            gridFormatRule3.Name = "Format0";
-            formatConditionRuleValue3.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            formatConditionRuleValue3.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue3.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
-            formatConditionRuleValue3.Expression = "[WrongNumber] <> 0";
-            gridFormatRule3.Rule = formatConditionRuleValue3;
-            gridFormatRule4.ApplyToRow = true;
-            gridFormatRule4.Column = this.colStatus;
-            gridFormatRule4.Name = "Format1";
-            formatConditionRuleValue4.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            formatConditionRuleValue4.Appearance.Options.UseBackColor = true;
-            formatConditionRuleValue4.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
-            formatConditionRuleValue4.Expression = "[Status] = \'Fail\'";
-            gridFormatRule4.Rule = formatConditionRuleValue4;
-            this.grvLuotCan.FormatRules.Add(gridFormatRule3);
-            this.grvLuotCan.FormatRules.Add(gridFormatRule4);
+            gridFormatRule1.ApplyToRow = true;
+            gridFormatRule1.Column = this.colWrongNumber;
+            gridFormatRule1.Name = "Format0";
+            formatConditionRuleValue1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            formatConditionRuleValue1.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue1.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
+            formatConditionRuleValue1.Expression = "[WrongNumber] <> 0";
+            gridFormatRule1.Rule = formatConditionRuleValue1;
+            gridFormatRule2.ApplyToRow = true;
+            gridFormatRule2.Column = this.colStatus;
+            gridFormatRule2.Name = "Format1";
+            formatConditionRuleValue2.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            formatConditionRuleValue2.Appearance.Options.UseBackColor = true;
+            formatConditionRuleValue2.Condition = DevExpress.XtraEditors.FormatCondition.Expression;
+            formatConditionRuleValue2.Expression = "[Status] = \'Fail\'";
+            gridFormatRule2.Rule = formatConditionRuleValue2;
+            this.grvLuotCan.FormatRules.Add(gridFormatRule1);
+            this.grvLuotCan.FormatRules.Add(gridFormatRule2);
             this.grvLuotCan.GridControl = this.grcLuotCan;
             this.grvLuotCan.Name = "grvLuotCan";
             this.grvLuotCan.OptionsView.ColumnAutoWidth = false;
@@ -1115,7 +1115,7 @@ namespace Swine.Demo
             this.tabThongKeLuotCan.Controls.Add(this.grcThongKeLuotCan);
             this.tabThongKeLuotCan.Margin = new System.Windows.Forms.Padding(4);
             this.tabThongKeLuotCan.Name = "tabThongKeLuotCan";
-            this.tabThongKeLuotCan.Size = new System.Drawing.Size(1312, 701);
+            this.tabThongKeLuotCan.Size = new System.Drawing.Size(1386, 702);
             this.tabThongKeLuotCan.Text = "Thống Kê Lượt Cân";
             // 
             // grcThongKeLuotCan
@@ -1128,7 +1128,7 @@ namespace Swine.Demo
             this.grcThongKeLuotCan.Name = "grcThongKeLuotCan";
             this.grcThongKeLuotCan.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemDateEdit4});
-            this.grcThongKeLuotCan.Size = new System.Drawing.Size(1312, 701);
+            this.grcThongKeLuotCan.Size = new System.Drawing.Size(1386, 702);
             this.grcThongKeLuotCan.TabIndex = 3;
             this.grcThongKeLuotCan.UseEmbeddedNavigator = true;
             this.grcThongKeLuotCan.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {

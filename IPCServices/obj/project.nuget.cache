@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vhm5x1d0+cMfxlsitFuaodo1xkGDSqf+CsUXHezrJw0pnNUOW5We8GfLKxdQqSALlYH1B5p9MCXg5L6c9tJCUg==",
+  "dgSpecHash": "W2c/BMYJ8B++rfn9OWJk7fY04ZFackk1sQkH0KdW/j2xgaX7JNeMjs9tIe/+jvBYqnRQ37esj+6JFYmZ0CznLw==",
   "success": true,
-  "projectFilePath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPCServices\\API.csproj",
+  "projectFilePath": "D:\\Project\\DemHeo\\IPCServices\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caitr\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\caitr\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

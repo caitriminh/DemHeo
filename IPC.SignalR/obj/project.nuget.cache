@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/fqtYnHcDL1TCYlq17x0THVgZ53IFTA1WIHw2BICXqHNCI8L1WPzwBipLK0myUGLApnhPlmEK/vs9pIjmKbBVg==",
+  "dgSpecHash": "Qi7IVh6fkiDKISZbCRY35EyulBVwd2jQiNMdOi8R2yjeysC+KgjPh3kwN9YXihOVcXq8M79VxicIxBBrTFIQjQ==",
   "success": true,
-  "projectFilePath": "D:\\Quyet Thang\\Project CountSwine\\WINE_CP_PROJECT\\IPC.SignalR\\IPC.SignalR.csproj",
+  "projectFilePath": "D:\\Project\\DemHeo\\IPC.SignalR\\IPC.SignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\caitr\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\caitr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

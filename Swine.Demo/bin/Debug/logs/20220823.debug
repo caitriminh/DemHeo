@@ -1,0 +1,49 @@
+===23/08/2022 1:32:32 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:32:32 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:32:32 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:32:42 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:32:43 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:34:16 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:34:16 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:34:16 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:34:26 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:34:27 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:35:28 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:35:29 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:35:29 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:35:39 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:35:40 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:37:16 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:37:16 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:37:16 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:37:26 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:37:27 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:40:05 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:40:06 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:40:06 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:40:16 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:40:17 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:44:29 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:44:29 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:44:29 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:44:39 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:44:40 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:49:11 PM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===23/08/2022 1:49:12 PM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===23/08/2022 1:49:12 PM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===23/08/2022 1:49:22 PM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===23/08/2022 1:49:23 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:49:40 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===23/08/2022 1:49:43 PM:Lưu ảnh hoàn tất
+===23/08/2022 1:49:43 PM:Bắt đầu upload ảnh lên server
+===23/08/2022 1:49:48 PM:Upload ảnh lên server thành công
+===23/08/2022 1:49:48 PM:Lưu kết quả xuống Database.
+===23/08/2022 1:49:48 PM:Đọc kết quả từ VSTech.
+===23/08/2022 1:49:53 PM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===23/08/2022 1:49:53 PM:Lưu ảnh hoàn tất
+===23/08/2022 1:49:53 PM:Bắt đầu upload ảnh lên server
+===23/08/2022 1:49:58 PM:Upload ảnh lên server thành công
+===23/08/2022 1:49:58 PM:Lưu kết quả xuống Database.
+===23/08/2022 1:49:58 PM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 06
+===23/08/2022 1:49:58 PM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===23/08/2022 1:49:59 PM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 06
