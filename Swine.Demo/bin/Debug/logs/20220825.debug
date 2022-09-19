@@ -1,0 +1,54 @@
+===25/08/2022 9:19:55 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===25/08/2022 9:19:55 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/08/2022 9:19:55 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/08/2022 9:20:05 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===25/08/2022 9:20:06 AM:Đọc kết quả từ VSTech.
+===25/08/2022 9:20:07 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 9:20:07 AM:Lưu ảnh hoàn tất
+===25/08/2022 9:20:07 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 9:20:10 AM:Upload ảnh lên server thành công
+===25/08/2022 9:20:10 AM:Lưu kết quả xuống Database.
+===25/08/2022 9:20:10 AM:Đọc kết quả từ VSTech.
+===25/08/2022 9:20:11 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 9:20:11 AM:Lưu ảnh hoàn tất
+===25/08/2022 9:20:11 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 9:20:14 AM:Upload ảnh lên server thành công
+===25/08/2022 9:20:14 AM:Lưu kết quả xuống Database.
+===25/08/2022 9:20:14 AM:Đọc kết quả từ VSTech.
+===25/08/2022 9:20:15 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 9:20:15 AM:Lưu ảnh hoàn tất
+===25/08/2022 9:20:15 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 9:20:18 AM:Upload ảnh lên server thành công
+===25/08/2022 9:20:18 AM:Lưu kết quả xuống Database.
+===25/08/2022 9:20:18 AM:Đọc kết quả từ VSTech.
+===25/08/2022 9:20:19 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 9:20:19 AM:Lưu ảnh hoàn tất
+===25/08/2022 9:20:19 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 9:20:22 AM:Upload ảnh lên server thành công
+===25/08/2022 9:20:22 AM:Lưu kết quả xuống Database.
+===25/08/2022 9:20:22 AM:Đọc kết quả từ VSTech.
+===25/08/2022 9:20:23 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 9:20:23 AM:Lưu ảnh hoàn tất
+===25/08/2022 9:20:23 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 9:29:08 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===25/08/2022 9:29:22 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===25/08/2022 11:49:00 AM:http://localhost:59247/api/SignalR/GetNumber?CageId=06
+===25/08/2022 11:49:00 AM:Đã nhận yêu cầu lấy số lượng từ lồng cân...
+===25/08/2022 11:49:00 AM:Tạo trigger cho hệ thống VSTech tiến hành xử lý.
+===25/08/2022 11:49:10 AM:Phần mềm nhận diện VS bị lỗi. Hệ thống tiến hành tự động xử lý -> Không trả kết quả
+===25/08/2022 11:49:11 AM:Đọc kết quả từ VSTech.
+===25/08/2022 11:49:12 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 11:49:12 AM:Lưu ảnh hoàn tất
+===25/08/2022 11:49:12 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 11:49:12 AM:Upload ảnh lên server thành công
+===25/08/2022 11:49:12 AM:Lưu kết quả xuống Database.
+===25/08/2022 11:49:12 AM:Đọc kết quả từ VSTech.
+===25/08/2022 11:49:13 AM:Xử lý hình ảnh của VSTech -> Save lưu trữ
+===25/08/2022 11:49:13 AM:Lưu ảnh hoàn tất
+===25/08/2022 11:49:13 AM:Bắt đầu upload ảnh lên server
+===25/08/2022 11:49:13 AM:Upload ảnh lên server thành công
+===25/08/2022 11:49:13 AM:Lưu kết quả xuống Database.
+===25/08/2022 11:49:13 AM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 06
+===25/08/2022 11:49:13 AM:Gủi yêu cầu hoàn thành lượt cân ở lồng cân 06
+===25/08/2022 11:49:13 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.
+===25/08/2022 11:49:14 AM:Đã hoàn thành cân: Mở khóa cho heo ra khỏi chuồng.

@@ -678,7 +678,6 @@ D:\Project\DemHeo\Swine.Demo\bin\Debug\es\DevExpress.Office.v21.1.Core.resources
 D:\Project\DemHeo\Swine.Demo\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
 D:\Project\DemHeo\Swine.Demo\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.csproj.AssemblyReference.cache
-D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.csproj.SuggestedBindingRedirects.cache
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.FrmConfig.resources
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.FrmMain.resources
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.Properties.Resources.resources
@@ -690,3 +689,4 @@ D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.application
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.csproj.CopyComplete
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.exe
 D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.pdb
+D:\Project\DemHeo\Swine.Demo\obj\Debug\Swine.Demo.csproj.SuggestedBindingRedirects.cache

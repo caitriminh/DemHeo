@@ -48,3 +48,13 @@ D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Release\netcor
 D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
 D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.dll
 D:\Quyet Thang\Project CountSwine\WINE_CP_PROJECT\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.pdb
+D:\Project\DemHeo\IPC.SignalR\bin\Release\netcoreapp3.1\IPC.SignalR.deps.json
+D:\Project\DemHeo\IPC.SignalR\bin\Release\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\DemHeo\IPC.SignalR\bin\Release\netcoreapp3.1\IPC.SignalR.pdb
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.csproj.AssemblyReference.cache
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.AssemblyInfoInputs.cache
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.AssemblyInfo.cs
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.csproj.CoreCompileInputs.cache
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.dll
+D:\Project\DemHeo\IPC.SignalR\obj\Release\netcoreapp3.1\IPC.SignalR.pdb

@@ -15,6 +15,13 @@ namespace Swine.Demo.Lib
             return Task.CompletedTask;
         }
 
+        public static Task ResetLineCheck()
+        {
+            string createText = "Y" + Environment.NewLine;
+            File.WriteAllText("D:\\reset.txt", createText);
+            return Task.CompletedTask;
+        }
+
         public static DataTable ReadExcel()
         {
             string path = "D:\\result.xlsx";

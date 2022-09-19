@@ -1111,14 +1111,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Swine.Demo.exe" size="509376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Swine.Demo.exe" size="509888">
       <assemblyIdentity name="Swine.Demo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nls+5XeqWCofVXUVhz+Rdxn2rJEfYMefLisqDNdO7tc=</dsig:DigestValue>
+        <dsig:DigestValue>rSgwQPl44teOYNIK8Ol9dM6tgNMTlITRyE7aTPrJgkY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1311,13 +1311,13 @@
       <dsig:DigestValue>6AXKG3Dtl5/vbjQb9AdCS4sYbL6kSsCt0OQjInf31A8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Swine.Demo.exe.config" size="3326">
+  <file name="Swine.Demo.exe.config" size="3324">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ndleT6CyuBm7FEBGZqQTHbQZLAKIACFZXr8rCzlTlBQ=</dsig:DigestValue>
+      <dsig:DigestValue>tK0SdZ15P0pPXxtAkTlHK9qczkxSsWOfE+ySAm3MQDY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

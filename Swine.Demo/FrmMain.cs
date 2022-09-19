@@ -37,6 +37,7 @@ namespace Swine.Demo
         public FrmMain()
         {
             InitializeComponent();
+            ResetDO();
             objData = new DataServices();
             _loggingService = new LoggingService();
 
@@ -168,7 +169,7 @@ namespace Swine.Demo
                 textEdit1.Text = "DI: " + _decimalDo + " - Flag: " + flag;
                 return;
             }
-            if (_decimalDo == 56) //Nhận DI4=32 + DI2=8 = 40, Xác nhận 02 trạng thái công tác hành trình và nút nhấn DI2
+            if (_decimalDo == 56 || _decimalDo == 58) //Nhận DI4=32 + DI2=8 = 40, Xác nhận 02 trạng thái công tác hành trình và nút nhấn DI2
             {
                 _loggingService.Debug($"B2: Đang chuẩn bị cân - DI: " + _decimalDo);
                 textEdit1.Text = "DI: " + _decimalDo + " - Flag: " + flag;
@@ -257,47 +258,47 @@ namespace Swine.Demo
                 textEdit1.Text = "DI: " + _decimalDo + " - Flag: " + flag;
                 return;
             }
-            else if ((_decimalDo == 50 || _decimalDo == 34 || _decimalDo == 18 || _decimalDo == 2 || _decimalDo == 32) && (flag == "" || flag == "KHANCAP")) //Bật DI 5, nút nhấn khẩn cấp
-            {
-                _loggingService.Debug($"Nút nhấn khẩn cấp - DI: " + _decimalDo);
-                SendDo(16, true);
-                SendDo(2, true);
-                try
-                {
-                    picLock1.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
-                    picLock2.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
-                }
-                catch (Exception)
-                {
+            //else if ((_decimalDo == 50 || _decimalDo == 34 || _decimalDo == 18 || _decimalDo == 2 || _decimalDo == 32) && (flag == "" || flag == "KHANCAP")) //Bật DI 5, nút nhấn khẩn cấp
+            //{
+            //    _loggingService.Debug($"Nút nhấn khẩn cấp - DI: " + _decimalDo);
+            //    SendDo(16, true);
+            //    SendDo(2, true);
+            //    try
+            //    {
+            //        picLock1.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
+            //        picLock2.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
+            //    }
+            //    catch (Exception)
+            //    {
 
-                }
+            //    }
 
-                flag = "KHANCAP";
-                textEdit1.Text = "DI: " + _decimalDo + " - Flag: " + flag;
-                //ResetDO();
-                return;
-            }
-            else if (_decimalDo == 16 && flag == "KHANCAP")
-            {
-                SendDo(2, true); //khóa cửa heo ra
-                SendDo(8, true); //bật đèn bỏ     
-                SendDo(16, true); //mở khóa cho heo vào
-                try
-                {
-                    picLock2.Image = ReadImageToStream(Application.StartupPath + "\\images\\lock.png");
-                    picLightRedGreen.Image = ReadImageToStream(Application.StartupPath + "\\images\\red.png");
-                    picLock1.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
-                }
-                catch (Exception)
-                {
+            //    flag = "KHANCAP";
+            //    textEdit1.Text = "DI: " + _decimalDo + " - Flag: " + flag;
+            //    //ResetDO();
+            //    return;
+            //}
+            //else if (_decimalDo == 16 && flag == "KHANCAP")
+            //{
+            //    SendDo(2, true); //khóa cửa heo ra
+            //    SendDo(8, true); //bật đèn bỏ     
+            //    SendDo(16, true); //mở khóa cho heo vào
+            //    try
+            //    {
+            //        picLock2.Image = ReadImageToStream(Application.StartupPath + "\\images\\lock.png");
+            //        picLightRedGreen.Image = ReadImageToStream(Application.StartupPath + "\\images\\red.png");
+            //        picLock1.Image = ReadImageToStream(Application.StartupPath + "\\images\\unlock.png");
+            //    }
+            //    catch (Exception)
+            //    {
 
-                }
+            //    }
 
-                lblStatus.Text = "KHAN CAP.";
-                flag = "";
-                ResetDO();
-                return;
-            }
+            //    lblStatus.Text = "KHAN CAP.";
+            //    flag = "";
+            //    ResetDO();
+            //    return;
+            //}
         }
 
         [Obsolete]
@@ -456,6 +457,7 @@ namespace Swine.Demo
                     txtResult.Text = "0";
                     intLuotCan += 1;
                     txtLuotCan.Text = intLuotCan.ToString();
+                    WriterFile.ResetLineCheck();
                     //picImageNumberPig.Image = ReadImageToStream(Application.StartupPath + "\\images\\logo.jpg");
                 }
             });
